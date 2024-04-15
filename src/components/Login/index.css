@@ -1,0 +1,10 @@
+.button1 {
+  font-family: 'Roboto';
+  font-size: 15px;
+  padding: 8px;
+  border-radius: 5px;
+  border-style: none;
+  font-weight: bold;
+  width: 100px;
+  cursor: pointer;
+}
